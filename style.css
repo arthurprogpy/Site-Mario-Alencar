@@ -91,9 +91,9 @@ nav ul li a:hover {
 }
 
 .course-img {
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+ /*border-radius: 50%;*/
     object-fit: cover;
     margin-bottom: 10px;
 }
@@ -102,7 +102,6 @@ nav ul li a:hover {
     background-color: #DCF2F1;
     width: 1280px;
     height: 1780px;
-    padding: 20px;
     text-align: center;
 }
 
@@ -115,7 +114,6 @@ nav ul li a:hover {
     background-color: #DCF2F1;
     width: 1280px;
     height: 1780px;
-    padding: 20px;
     text-align: center;
 }
 
@@ -135,22 +133,25 @@ nav ul li a:hover {
 }
 
 .additional-info .additional-box img {
-    width: 216px;
-    height: 202px;
+    width: 100px;
+    height: 100px;
     border-radius: 10px 10px 0 0;
+    margin-top: 20px;
 }
 
 .additional-info .additional-box p {
     margin: 10px 0;
 }
 
-.above-box {
+.cx-cima {
     background-color: #365486;
     width: 1113px;
     height: 246px;
     margin: 0 auto;
     margin-bottom: 20px;
     border-radius: 10px;
+    margin-top: 50px;
+    margin-bottom:100px;
 }
 
 footer {
@@ -176,15 +177,15 @@ footer {
     border-radius: 50%;
 }
 
-.social-media {
+.redesocial {
     margin-right: 20px;
 }
 
-.social-media p {
+.redesocial p {
     margin-bottom: 5px;
 }
 
-.social-media img {
+.redesocial img {
     width: 30px;
     height: 30px;
     margin-left: 5px;
@@ -196,6 +197,15 @@ hr {
     width: 80%;
 }
 
-.copyright {
+.copia {
     margin-bottom: 10px;
+}
+
+.intro-text {
+    margin: 0px 30px 0px 30px;
+    text-align: left;
+}
+
+a {
+    text-decoration: none;
 }
