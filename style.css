@@ -101,7 +101,7 @@ nav ul li a:hover {
 .school-info {
     background-color: #DCF2F1;
     width: 1280px;
-    height: 1780px;
+    height: 1500px;
     text-align: center;
 }
 
@@ -126,7 +126,7 @@ nav ul li a:hover {
     background-color: #D9D9D9;
     width: 200px;
     height: 200px;
-    margin: 0 60px;
+    margin: 100px 60px;
     display: inline-block;
     border-radius: 10px;
     text-align: center;
