@@ -16,6 +16,10 @@ header {
     padding: 10px 20px;
 }
 
+#c1 {
+    background-color: bisque;
+} 
+
 .logo-container {
     display: flex;
     align-items: center;
